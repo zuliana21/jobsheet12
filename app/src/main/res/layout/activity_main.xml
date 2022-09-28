@@ -7,6 +7,7 @@
     tools:context=".MainActivity">
 
     <Button
+        android:id="@+id/button1"
         android:layout_width="397dp"
         android:layout_height="55dp"
         android:background="@color/purple_200"
@@ -20,6 +21,7 @@
         app:layout_constraintVertical_bias="0.406" />
 
     <Button
+        android:id="@+id/button2"
         android:layout_width="397dp"
         android:layout_height="55dp"
         android:background="@color/purple_200"
